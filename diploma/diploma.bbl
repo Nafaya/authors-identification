@@ -1,0 +1,61 @@
+\begin{thebibliography}{10}
+
+\bibitem{IdentificationAuthorByFrequencies}
+Борисов Л.А. та Орлов Ю.Н. та~Осминин К.П.
+\newblock Идентификація автора текста за
+  розподілом частот буквосполучень.
+\newblock 2013.
+
+\bibitem{StylometricAnalysisofScientificArticles}
+Shane Bergsma, Matt Post, and David Yarowsky.
+\newblock Stylometric analysis of scientific articles.
+\newblock 2017.
+
+\bibitem{Authoridentificationinshorttexts}
+Marcia Fissette.
+\newblock Author identification in short texts.
+\newblock 2010.
+
+\bibitem{QuantitativeauthorshipattributionAnevaluationoftechniques}
+J.~Grieve.
+\newblock Quantitative authorship attribution: An evaluation of techniques.
+\newblock 2007.
+
+\bibitem{FindingParticipantsinaChatAuthorshipAttributionforConversationalDocuments}
+Giacomo Inches, Morgan Harvey, and Fabio Crestani.
+\newblock Finding participants in a chat: Authorship attribution for
+  conversational documents.
+\newblock 2013.
+
+\bibitem{OverviewoftheAuthorIdentificationTaskatPAN2018}
+Mike Kestemont, Michael Tschuggnall, Efstathios Stamatatos, and Walter
+  Daelemans.
+\newblock Overview of the author identification task at pan-2018.
+\newblock 2018.
+
+\bibitem{AnAssumptioninMachineLearning}
+D.A. Klyushin, S.I. Lyashko, and S.S. Zub.
+\newblock Author identification in short text.
+
+\bibitem{WritingstyledeterminationusingtheKNNtextmodel}
+Granichin O., Kizhaeva N., Shalymov D., and Volkovich Z.
+\newblock Writing style determination using the knn text model.
+\newblock 2015.
+
+\bibitem{Tableforestimatingthegoodnessoffitofempiricaldistributions}
+N.~Smirnov.
+\newblock Table for estimating the goodness of fit of empirical distributions.
+\newblock {\em Annals of Mathematical Statistics}, 19, 1948.
+
+\bibitem{Asurveyofmodernauthorshipattributionmethods}
+Stamatatos.
+\newblock A survey of modern authorship attribution methods.
+\newblock {\em Journal of the American Society for Information Science and
+  Technology}, 2009.
+
+\bibitem{NewsAuthorshipIdentificationwithDeepLearning}
+Liuyu Zhou.
+\newblock News authorship identification with deep learning.
+\newblock 2016.
+
+\end{thebibliography}

@@ -1,0 +1,6 @@
+data/*
+loader/.idea/*
+loader/node_modules/*
+handler/authors/bin/*
+handler/authors/libs/*
+handler/authors/obj/*

@@ -1,0 +1,163 @@
+# depslib dependency file v1.0
+1587641073 source:d:\univ\diplommaga\nafayadiplom\handler\authors\main.cpp
+	<iostream>
+	"rapidjson/document.h"
+	"rapidjson/istreamwrapper.h"
+	"authorsRecognition.h"
+	<vector>
+	<unordered_map>
+	<chrono>
+	<fstream>
+	<algorithm>
+	<thread>
+	<future>
+
+1573408244 d:\univ\diplommaga\nafayadiplom\handler\authors\rapidjson\document.h
+	"reader.h"
+	"internal/meta.h"
+	"internal/strfunc.h"
+	"memorystream.h"
+	"encodedstream.h"
+	<new>
+	<limits>
+	<iterator>
+	<utility>
+
+1573408244 d:\univ\diplommaga\nafayadiplom\handler\authors\rapidjson\reader.h
+	"allocators.h"
+	"stream.h"
+	"encodedstream.h"
+	"internal/clzll.h"
+	"internal/meta.h"
+	"internal/stack.h"
+	"internal/strtod.h"
+	<limits>
+	<intrin.h>
+	<nmmintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<stdexcept>
+	"rapidjson/error/error.h"
+	"rapidjson/reader.h"
+	"error/error.h"
+
+1573408244 d:\univ\diplommaga\nafayadiplom\handler\authors\rapidjson\allocators.h
+	"rapidjson.h"
+
+1573408244 d:\univ\diplommaga\nafayadiplom\handler\authors\rapidjson\rapidjson.h
+	<cstdlib>
+	<cstring>
+	"rapidjson/..."
+	<string>
+	"msinttypes/stdint.h"
+	"msinttypes/inttypes.h"
+	<stdint.h>
+	<inttypes.h>
+	<endian.h>
+	"rapidjson/..."
+	<cassert>
+
+1573408244 d:\univ\diplommaga\nafayadiplom\handler\authors\rapidjson\msinttypes\stdint.h
+	<stdint.h>
+	<limits.h>
+	<wchar.h>
+
+1573408244 d:\univ\diplommaga\nafayadiplom\handler\authors\rapidjson\msinttypes\inttypes.h
+	"stdint.h"
+	<inttypes.h>
+
+1573408244 d:\univ\diplommaga\nafayadiplom\handler\authors\rapidjson\stream.h
+	"rapidjson.h"
+	"encodings.h"
+
+1573408244 d:\univ\diplommaga\nafayadiplom\handler\authors\rapidjson\encodings.h
+	"rapidjson.h"
+
+1573408244 d:\univ\diplommaga\nafayadiplom\handler\authors\rapidjson\encodedstream.h
+	"stream.h"
+	"memorystream.h"
+
+1573408244 d:\univ\diplommaga\nafayadiplom\handler\authors\rapidjson\memorystream.h
+	"stream.h"
+
+1573408244 d:\univ\diplommaga\nafayadiplom\handler\authors\rapidjson\internal\clzll.h
+	"../rapidjson.h"
+	<intrin.h>
+
+1573408244 d:\univ\diplommaga\nafayadiplom\handler\authors\rapidjson\internal\meta.h
+	"../rapidjson.h"
+	<type_traits>
+
+1573408244 d:\univ\diplommaga\nafayadiplom\handler\authors\rapidjson\internal\stack.h
+	"../allocators.h"
+	"swap.h"
+	<cstddef>
+
+1573408244 d:\univ\diplommaga\nafayadiplom\handler\authors\rapidjson\internal\swap.h
+	"../rapidjson.h"
+
+1573408244 d:\univ\diplommaga\nafayadiplom\handler\authors\rapidjson\internal\strtod.h
+	"ieee754.h"
+	"biginteger.h"
+	"diyfp.h"
+	"pow10.h"
+	<climits>
+	<limits>
+
+1573408244 d:\univ\diplommaga\nafayadiplom\handler\authors\rapidjson\internal\ieee754.h
+	"../rapidjson.h"
+
+1573408244 d:\univ\diplommaga\nafayadiplom\handler\authors\rapidjson\internal\biginteger.h
+	"../rapidjson.h"
+	<intrin.h>
+
+1573408244 d:\univ\diplommaga\nafayadiplom\handler\authors\rapidjson\internal\diyfp.h
+	"../rapidjson.h"
+	"clzll.h"
+	<limits>
+	<intrin.h>
+
+1573408244 d:\univ\diplommaga\nafayadiplom\handler\authors\rapidjson\internal\pow10.h
+	"../rapidjson.h"
+
+1573408244 d:\univ\diplommaga\nafayadiplom\handler\authors\rapidjson\error\error.h
+	"../rapidjson.h"
+
+1573408244 d:\univ\diplommaga\nafayadiplom\handler\authors\rapidjson\internal\strfunc.h
+	"../stream.h"
+	<cwchar>
+
+1573408472 source:d:\univ\diplommaga\nafayadiplom\handler\authors\libs\library.cpp
+
+1573407033 d:\univ\diplommaga\nafayadiplom\handler\authors\libs\library.h
+	<cstring>
+	"../rapidjson/document.h"
+
+1587521857 source:d:\univ\diplommaga\nafayadiplom\handler\authors\authorsrecognition.cpp
+	"authorsRecognition.h"
+
+1573408244 d:\univ\diplommaga\nafayadiplom\handler\authors\rapidjson\istreamwrapper.h
+	"stream.h"
+	<iosfwd>
+	<ios>
+
+1587420467 d:\univ\diplommaga\nafayadiplom\handler\authors\authorsrecognition.h
+	<iostream>
+	<vector>
+	<unordered_map>
+	<stdexcept>
+	<dirent.h>
+	<sys/types.h>
+	"rapidjson/document.h"
+	"rapidjson/istreamwrapper.h"
+	<fstream>
+	<chrono>
+	<algorithm>
+	<numeric>
+	<streambuf>
+	<thread>
+	<future>
+	<cmath>
+	<random>
+	<tuple>
+
